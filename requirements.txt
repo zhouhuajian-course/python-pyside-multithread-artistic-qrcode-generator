@@ -1,0 +1,2 @@
+amzqr
+PySide6
